@@ -1,3 +1,4 @@
+<div class="container-fluid mimin-wrapper">
 <!-- start:Left Menu -->
   <div id="left-menu">
     <div class="sub-left-menu scroll">
@@ -12,8 +13,8 @@
               <span class="fa-angle-right fa right-arrow text-right"></span>
             </a>
           </li> -->
-          <li class="ripple"><a href="calendar.html"><span class="fa fa-user-plus"></span>Pasien Baru</a></li>
-          <li class="ripple"><a href="calendar.html"><span class="fa fa-user-plus"></span>Pasien Lama</a></li>
+          <li class="ripple"><a href="<?php echo base_url().'Welcome' ?>"><span class="fa fa-user-plus"></span>Pasien Baru</a></li>
+          <li class="ripple"><a href="<?php echo base_url().'Pasien_Lama' ?>"><span class="fa fa-user"></span>Pasien Lama</a></li>
 
           <!-- <li class="ripple">
             <a class="tree-toggle nav-header">

@@ -1,3 +1,4 @@
+<body id="mimin" class="dashboard">
 <!-- start: Header -->
   <nav class="navbar navbar-default header navbar-fixed-top">
     <div class="col-md-12 nav-wrapper">
